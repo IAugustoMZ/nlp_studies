@@ -1,0 +1,10 @@
+services:
+  nlp-studies:
+    image: nlp-studies:latest
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: nlp-studies-container
+    volumes:
+      - E:\LocalPortfolio\PersonalProjects\nlp_studies\:/nlp_exp
+    command: ["tail", "-f", "/dev/null"]
