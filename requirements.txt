@@ -2,3 +2,5 @@ pandas
 pyarrow
 fastparquet
 ipykernel
+spacy
+nltk
