@@ -4,3 +4,4 @@ fastparquet
 ipykernel
 spacy
 nltk
+ipython>=8.12,<9
