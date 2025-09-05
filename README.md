@@ -17,6 +17,7 @@ This repository contains my studies and experiments in Natural Language Processi
 		- `02_nltk_vs_spacy.ipynb`: Comparison of NLTK and spaCy for NLP tasks, including tokenization, lemmatization, POS tagging, and named entity recognition.
 		- `03_language_processing_pipeline.ipynb`: Building and visualizing language processing pipelines in spaCy, with practical examples and exercises.
 		- `04_stemming_lemmatization.ipynb`: Introduction to stemming and lemmatization techniques in NLP, with code examples and practical exercises.
+		- `05_pos_tagging.ipynb`: Practical guide to Part-of-Speech (POS) tagging in NLP, including examples and exercises using popular Python libraries.
 
 ## Other Files
 
