@@ -11,13 +11,34 @@ This repository contains my studies and experiments in Natural Language Processi
 		- `question_generation.py`: Logic for generating property estimation questions.
 
 - **01_basic_nlp_course/**
-	- Notebooks and materials for a basic NLP course, including:
 
-		- `01_regular_expressions.ipynb`: Introduction to regular expressions in NLP.
-		- `02_nltk_vs_spacy.ipynb`: Comparison of NLTK and spaCy for NLP tasks, including tokenization, lemmatization, POS tagging, and named entity recognition.
-		- `03_language_processing_pipeline.ipynb`: Building and visualizing language processing pipelines in spaCy, with practical examples and exercises.
-		- `04_stemming_lemmatization.ipynb`: Introduction to stemming and lemmatization techniques in NLP, with code examples and practical exercises.
-		- `05_pos_tagging.ipynb`: Practical guide to Part-of-Speech (POS) tagging in NLP, including examples and exercises using popular Python libraries.
+		- Notebooks and materials for a basic NLP course, including:
+
+			- `01_regular_expressions.ipynb`: Comprehensive introduction to regular expressions for NLP and chemical/process engineering. Includes:
+				- Extraction of phone numbers, emails, chemical formulas, reaction equations, units, timestamps, error codes, simulation parameters, CAS numbers, and scientific notation.
+				- Step-by-step pattern refinement and explanations.
+				- Example-driven exercises with expected outputs and detailed markdown explanations.
+
+			- `02_nltk_vs_spacy.ipynb`: Comparison of NLTK and spaCy for NLP tasks, including:
+				- Tokenization, lemmatization, POS tagging, and named entity recognition.
+				- Practical code examples and performance notes.
+
+			- `03_language_processing_pipeline.ipynb`: Building and visualizing language processing pipelines in spaCy, with:
+				- Custom pipeline components.
+				- Practical examples and exercises.
+
+			- `04_stemming_lemmatization.ipynb`: Introduction to stemming and lemmatization techniques in NLP, with:
+				- Code examples for different algorithms.
+				- Practical exercises and comparison of results.
+
+			- `05_pos_tagging.ipynb`: Practical guide to Part-of-Speech (POS) tagging in NLP, including:
+				- Examples and exercises using popular Python libraries.
+				- Explanation of POS tag sets and their applications.
+
+			- `06_named_entity_recognition.ipynb`: Introduction to Named Entity Recognition (NER):
+				- Explanation of NER concepts and use cases.
+				- Code examples using spaCy and NLTK.
+				- Exercises for extracting and analyzing named entities.
 
 ## Other Files
 
