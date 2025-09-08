@@ -54,6 +54,11 @@ This repository contains my studies and experiments in Natural Language Processi
 				- Theory and practical implementation of n-gram models.
 				- Code examples for extracting and using n-grams in text analysis.
 				- Exercises and explanations for feature engineering with n-grams.
+				
+			- `10_tf_idf.ipynb`: Introduction to TF-IDF (Term Frequency-Inverse Document Frequency) in NLP, including:
+				- Theory and mathematical foundation of TF-IDF.
+				- Code examples for computing and applying TF-IDF to text data.
+			
 ## Other Files
 
 - `requirements.txt`: Python dependencies for the project.
