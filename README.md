@@ -49,6 +49,11 @@ This repository contains my studies and experiments in Natural Language Processi
 				- Theory and importance of stop words.
 				- Code examples for removing stop words using different libraries.
 				- Exercises and explanations for improving text preprocessing and feature extraction.
+				
+			- `09_bag_of_n_grams.ipynb`: Introduction to Bag of N-Grams in NLP, including:
+				- Theory and practical implementation of n-gram models.
+				- Code examples for extracting and using n-grams in text analysis.
+				- Exercises and explanations for feature engineering with n-grams.
 ## Other Files
 
 - `requirements.txt`: Python dependencies for the project.
