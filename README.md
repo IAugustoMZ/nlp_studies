@@ -44,6 +44,11 @@ This repository contains my studies and experiments in Natural Language Processi
 				- Theory and practical implementation.
 				- Code examples for text vectorization.
 				- Exercises and explanations for feature extraction and document-term matrices.
+
+			- `08_stop_words_removal.ipynb`: Guide to stop words removal in NLP, including:
+				- Theory and importance of stop words.
+				- Code examples for removing stop words using different libraries.
+				- Exercises and explanations for improving text preprocessing and feature extraction.
 ## Other Files
 
 - `requirements.txt`: Python dependencies for the project.
