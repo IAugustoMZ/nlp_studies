@@ -1,2 +1,5 @@
 # ignore files .parquet
 *.parquet
+
+# ignore data folder
+data/

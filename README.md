@@ -40,6 +40,10 @@ This repository contains my studies and experiments in Natural Language Processi
 				- Code examples using spaCy and NLTK.
 				- Exercises for extracting and analyzing named entities.
 
+			- `07_bag_of_words.ipynb`: Introduction to the Bag of Words model in NLP, including:
+				- Theory and practical implementation.
+				- Code examples for text vectorization.
+				- Exercises and explanations for feature extraction and document-term matrices.
 ## Other Files
 
 - `requirements.txt`: Python dependencies for the project.
