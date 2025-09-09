@@ -58,6 +58,15 @@ This repository contains my studies and experiments in Natural Language Processi
 			- `10_tf_idf.ipynb`: Introduction to TF-IDF (Term Frequency-Inverse Document Frequency) in NLP, including:
 				- Theory and mathematical foundation of TF-IDF.
 				- Code examples for computing and applying TF-IDF to text data.
+
+			- `11_word_embeddings.ipynb`: Introduction to word embeddings in NLP, including:
+				- Theory and intuition behind word vector representations.
+				- Code examples for generating and visualizing embeddings.
+
+			- `12_classification_word_embeddings.ipynb`: Text classification with word embeddings, including:
+				- Practical pipeline for using embeddings in supervised learning.
+				- Code examples for feature extraction and model training.
+				- Exercises and explanations for evaluating classification performance.
 			
 ## Other Files
 
